@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**akhlak007/akhlak007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+akhlak007/akhlak007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 <h1 align="center">Md Akhlak Ud Jaman</h1>
@@ -24,7 +24,7 @@ Building mobile applications, AI-powered systems, and IoT solutions that solve r
 
 ---
 
-## 👨‍💻 About Me
+ 👨‍💻 About Me
 
 CSE undergraduate at the Military Institute of Science and Technology (MIST), passionate about building scalable Flutter applications, AI-powered solutions, and IoT-integrated systems.
 
@@ -34,9 +34,9 @@ I enjoy transforming innovative ideas into practical products that solve real-wo
 
 ---
 
-## 🚀 Featured Projects
+ 🚀 Featured Projects
 
-### 🏥 HealthSathi — AI-Powered Healthcare Platform
+ 🏥 HealthSathi — AI-Powered Healthcare Platform
 
 Healthcare platform designed to improve medication adherence and healthcare accessibility.
 
