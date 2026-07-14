@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-akhlak007/akhlak007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <h1 align="center">Md Akhlak Ud Jaman</h1>
 
 <h3 align="center">Flutter Developer • AI Enthusiast • CSE Student at MIST</h3>
@@ -24,7 +18,7 @@ Building mobile applications, AI-powered systems, and IoT solutions that solve r
 
 ---
 
- 👨‍💻 About Me
+## 👨‍💻 About Me
 
 CSE undergraduate at the Military Institute of Science and Technology (MIST), passionate about building scalable Flutter applications, AI-powered solutions, and IoT-integrated systems.
 
@@ -34,9 +28,9 @@ I enjoy transforming innovative ideas into practical products that solve real-wo
 
 ---
 
- 🚀 Featured Projects
+## 🚀 Featured Projects
 
- 🏥 HealthSathi — AI-Powered Healthcare Platform
+### 🏥 HealthSathi — AI-Powered Healthcare Platform
 
 Healthcare platform designed to improve medication adherence and healthcare accessibility.
 
@@ -184,13 +178,3 @@ Open to internships, research opportunities, freelance work, and collaboration o
 <p align="center">
 <i>"Building technology that creates meaningful impact."</i>
 </p>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
